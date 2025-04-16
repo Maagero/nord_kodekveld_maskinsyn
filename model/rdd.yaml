@@ -1,0 +1,13 @@
+# Dataset Path
+path: /Users/kasper.svendsen/src/nord_kodekveld_maskinsyn/model
+train: 
+- United_States/train
+val: 
+- United_States/val
+
+# Class Names
+names:
+  0: Longitudinal Crack
+  1: Transverse Crack
+  2: Alligator Crack
+  3: Potholes

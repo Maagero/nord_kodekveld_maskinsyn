@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# runs and models
+/runs
+yolo11n.pt
+/example_images
+
+/model/*/
+/voc/*/
+/vegbilder
